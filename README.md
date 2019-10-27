@@ -1,5 +1,3 @@
-### How to install
-
 #### Prerequisite
 
 - Ruby 2.5.1
@@ -15,4 +13,3 @@ $> yarn install
 $> rails db:create && rails db:migrate
 $> rails s
 ```
-
