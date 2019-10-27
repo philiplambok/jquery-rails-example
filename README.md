@@ -11,6 +11,7 @@
 
 ```sh
 $> bundle _2.0.1_ install
+$> yarn install
 $> rails db:create && rails db:migrate
 $> rails s
 ```
