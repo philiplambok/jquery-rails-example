@@ -1,5 +1,17 @@
-# README
+### How to install
 
-Based on tutorial [here](https://rubyplus.com/articles/4211-Using-Ajax-and-jQuery-in-Rails-5-Apps)
+#### Prerequisite
 
+- Ruby 2.5.1
+- Bundler 2.0.1
+- Rails 5.2.3
+
+
+#### How to install
+
+```sh
+$> bundle _2.0.1_ install
+$> rails db:create && rails db:migrate
+$> rails s
+```
 
